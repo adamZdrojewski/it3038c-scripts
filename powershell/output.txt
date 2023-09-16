@@ -1,0 +1,1 @@
+This machine's IP is 192.168.33.84.  User is Administrator.  Hostname is zdrojeap-win.  PowerShell Version 7.  Today's Date is Saturday 09/16/2023
