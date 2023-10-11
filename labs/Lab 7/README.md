@@ -6,6 +6,7 @@ The main use is to get user input, however you can do it multiple ways
 1. Text input
 2. Menu input
 3. Checkbox input
+
 Ontop of that you can also add checks to validate user input
 
 ## Installation
