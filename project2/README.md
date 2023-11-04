@@ -7,4 +7,4 @@ You will need to install NodeJS from [https://nodejs.org/en](https://nodejs.org/
 ```bash
 node hostFile.js --filePath ""
 ```
-Make sure to replace the name of the file you would like to display inside of the double quotes
+Make sure to place the name of the file you would like to display inside of the double quotes
